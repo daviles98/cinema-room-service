@@ -1,0 +1,177 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room REST Service/task/build/
+/Cinema Room REST Service/task/out/
+/Cinema Room REST Service/task/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/Invoke instance method/out/
+/Topics/Instance methods/Invoke instance method/out/production/classes/
+/Topics/Instance methods/The Robot class/out/
+/Topics/Instance methods/The Robot class/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Next even number/out/
+/Topics/Integer types and operations/Next even number/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Interface/Area of a circle/out/
+/Topics/Interface/Area of a circle/out/production/classes/
+/Topics/Interface/Mutable geometric shapes/out/
+/Topics/Interface/Mutable geometric shapes/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Interface/What can an interface have/out/
+/Topics/Interface/What can an interface have/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Select loops/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/Practical applications/out/
+/Topics/Multidimensional array/Practical applications/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/NPE/Theory/out/
+/Topics/NPE/Theory/out/production/classes/
+/Topics/NPE/Where NPE may occur/out/
+/Topics/NPE/Where NPE may occur/out/production/classes/
+/Topics/Objects/Army/out/
+/Topics/Objects/Army/out/production/classes/
+/Topics/Objects/Change identities/out/
+/Topics/Objects/Change identities/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Theory/out/
+/Topics/Overloading/Theory/out/production/classes/
+/Topics/Package/Binary search/out/
+/Topics/Package/Binary search/out/production/classes/
+/Topics/Package/Package features/out/
+/Topics/Package/Package features/out/production/classes/
+/Topics/Package/Required input/out/
+/Topics/Package/Required input/out/production/classes/
+/Topics/Package/The default import/out/
+/Topics/Package/The default import/out/production/classes/
+/Topics/Package/Theory/out/
+/Topics/Package/Theory/out/production/classes/
+/Topics/Polymorphism/Notification/out/
+/Topics/Polymorphism/Notification/out/production/classes/
+/Topics/Polymorphism/Publication and its subclasses/out/
+/Topics/Polymorphism/Publication and its subclasses/out/production/classes/
+/Topics/Polymorphism/The time of overloading/out/
+/Topics/Polymorphism/The time of overloading/out/production/classes/
+/Topics/Polymorphism/Theory/out/
+/Topics/Polymorphism/Theory/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/Primitive and reference types/The assignment/out/
+/Topics/Primitive and reference types/The assignment/out/production/classes/
+/Topics/Primitive and reference types/Theory/out/
+/Topics/Primitive and reference types/Theory/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Static fields/out/
+/Topics/Static members/Static fields/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
+/Topics/The Collections Framework overview/Creating instances/out/
+/Topics/The Collections Framework overview/Creating instances/out/production/classes/
+/Topics/The Collections Framework overview/Squares list/out/
+/Topics/The Collections Framework overview/Squares list/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The keyword super/Bank account/out/
+/Topics/The keyword super/Bank account/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Count the value occurrences/out/
+/Topics/The List interface/Count the value occurrences/out/production/classes/
+/Topics/The List interface/Mutable lists/out/
+/Topics/The List interface/Mutable lists/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/A subset of sorted set/out/
+/Topics/The Set interface/A subset of sorted set/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/The Set interface/Strict superset/out/
+/Topics/The Set interface/Strict superset/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/Thread management/The order of lines/out/
+/Topics/Thread management/The order of lines/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Thread synchronization/Theory/out/
+/Topics/Thread synchronization/Theory/out/production/classes/
+/Topics/Thread synchronization/Thread-safe account/out/
+/Topics/Thread synchronization/Thread-safe account/out/production/classes/
+/Topics/Thread synchronization/What is wrong/out/
+/Topics/Thread synchronization/What is wrong/out/production/classes/
+/Topics/Threads as objects/Counting threads/out/
+/Topics/Threads as objects/Counting threads/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Threads as objects/Thread name/out/
+/Topics/Threads as objects/Thread name/out/production/classes/
+/Topics/What is an exception/Avoid division by zero/out/
+/Topics/What is an exception/Avoid division by zero/out/production/classes/
+/Topics/What is an exception/Check the code/out/
+/Topics/What is an exception/Check the code/out/production/classes/
+/Topics/What is an exception/Theory/out/
+/Topics/What is an exception/Theory/out/production/classes/
